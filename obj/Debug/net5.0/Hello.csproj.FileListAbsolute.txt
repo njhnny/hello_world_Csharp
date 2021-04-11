@@ -1,0 +1,15 @@
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/Hello.deps.json
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/Hello.runtimeconfig.json
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/Hello.runtimeconfig.dev.json
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/Hello.dll
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/ref/Hello.dll
+/Users/nickhennessy/Desktop/hello_world/bin/Debug/net5.0/Hello.pdb
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.csprojAssemblyReference.cache
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.AssemblyInfoInputs.cache
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.AssemblyInfo.cs
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.csproj.CoreCompileInputs.cache
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.dll
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/ref/Hello.dll
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.pdb
+/Users/nickhennessy/Desktop/hello_world/obj/Debug/net5.0/Hello.genruntimeconfig.cache
