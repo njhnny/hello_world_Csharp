@@ -1,13 +1,20 @@
 using System;
 
-class Program
+class RatedR
 {
   static void Main()
   {
-    Console.WriteLine("Give me a number and I will double it for you!");
-    string stringNumber = Console.ReadLine();
-    int yourNumber = int.Parse(stringNumber);
-    int yourDoubledNumber = yourNumber * 2;
-    Console.WriteLine("I doubled your number for you: " + yourDoubledNumber);
+    Console.WriteLine("How old are you?");
+    string stringUserAge = Console.ReadLine();
+    int intUserAge = int.Parse(stringUserAge);
+
+    if (intUserAge >= 17)
+    {
+      Console.WriteLine("You can see the movie!");
+    }
+    else
+    {
+      Console.WriteLine("I'm sorry, you are too young to see the movie.");
+    }
   }
 }
